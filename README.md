@@ -2,7 +2,11 @@
 
 This is a dataset of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainly used in speech recognition, speech synthesis, singing voice synthesis, music information retrieval, music generation, audio processing, sound synthesis, etc
 
-## Speech
+* [Speech](#s)
+* [Music](#m)
+* [Sound Effect](#se)
+
+## <span id="s">Speech</span>
 
 * [LibriSpeech](http://www.openslr.org/12) - The **LibriSpeech** corpus is a collection of approximately 1,000 hours of audiobooks that are a part of the LibriVox project. Most of the audiobooks come from the Project Gutenberg. The training data is split into 3 partitions of 100hr, 360hr, and 500hr sets while the dev and test data are split into the ’clean’ and ’other’ categories, respectively, depending upon how well or challening Automatic Speech Recognition systems would perform against. Each of the dev and test sets is around 5hr in audio length.
 * [AISHELL-1](http://www.openslr.org/33/) - AISHELL-1 is a corpus for speech recognition research and building speech recognition systems for Mandarin.
@@ -18,7 +22,7 @@ This is a dataset of speech, music and sound effects that can provide training d
 * [ESD (Emotional Speech Database)](https://hltsingapore.github.io/ESD/) - **ESD** is an Emotional Speech Database for voice conversion research. The ESD database consists of 350 parallel utterances spoken by 10 native English and 10 native Chinese speakers and covers 5 emotion categories (neutral, happy, angry, sad and surprise). More than 29 hours of speech data were recorded in a controlled acoustic environment. The database is suitable for multi-speaker and cross-lingual emotional voice conversion studies.
 * [Microsoft Speech Corpus (Indian languages)](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e) - Microsoft Speech Corpus (Indian languages) release contains conversational and phrasal speech training and test data for Telugu, Tamil and Gujarati languages. The data package includes audio and corresponding transcripts. Data provided in this dataset shall not be used for commercial purposes. You may use the data solely for research purposes. If you publish your findings, you must provide the following attribution: “Data provided by Microsoft and SpeechOcean.com”.
 
-## Music
+## <span id="m">Music</span>
 
 * [MUSAN](http://www.openslr.org/17/) - **MUSAN** is a corpus of music, speech and noise. This dataset is suitable for training models for voice activity detection (VAD) and music/speech discrimination. The dataset consists of music from several genres, speech from twelve languages, and a wide assortment of technical and non-technical noises.
 * [MAESTRO](https://magenta.tensorflow.org/datasets/maestro) - The **MAESTRO** dataset contains over 200 hours of paired audio and MIDI recordings from ten years of International Piano-e-Competition. The MIDI data includes key strike velocities and sustain/sostenuto/una corda pedal positions. Audio and MIDI files are aligned with ∼3 ms accuracy and sliced to individual musical pieces, which are annotated with composer, title, and year of performance. Uncompressed audio is of CD quality or higher (44.1–48 kHz 16-bit PCM stereo).
@@ -40,7 +44,7 @@ This is a dataset of speech, music and sound effects that can provide training d
 * [Music Topics and Metadata](https://data.mendeley.com/datasets/3t9vbwxgr5/1) - This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. We also provide some informations as lyrics which can be used to natural language processing.
 * [MTG-Jamendo Dataset](https://github.com/MTG/mtg-jamendo-dataset) - We present the MTG-Jamendo Dataset, a new open dataset for music auto-tagging. It is built using music available at Jamendo under Creative Commons licenses and tags provided by content uploaders. The dataset contains over 55,000 full audio tracks with 195 tags from genre, instrument, and mood/theme categories. We provide elaborated data splits for researchers and report the performance of a simple baseline approach on five different sets of tags: genre, instrument, mood/theme, top-50, and overall.
 
-## Sound Effect
+## <span id="se">Sound Effect</span>
 
 * [AudioSet](https://research.google.com/audioset/index.html) - Audioset is an audio event dataset, which consists of over 2M human-annotated 10-second video clips. These clips are collected from YouTube, therefore many of which are in poor-quality and contain multiple sound-sources. A hierarchical ontology of 632 event classes is employed to annotate these data, which means that the same sound could be annotated as different labels. For example, the sound of barking is annotated as Animal, Pets, and Dog. All the videos are split into Evaluation/Balanced-Train/Unbalanced-Train set.
 * [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) - Urban Sound 8K is an audio dataset that contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music. The classes are drawn from the urban sound taxonomy. All excerpts are taken from field recordings uploaded to www.freesound.org.
