@@ -37,6 +37,7 @@ This is a datasets of speech, music and sound effects that can provide training 
 
 ## <span id="m">Music</span>
 
+* [Acappella](https://ipcv.github.io/Acappella/acappella/) - Acappella comprises around 46 hours of a cappella solo singing videos sourced from YouTbe, sampled across different singers and languages. Four languages are considered: English, Spanish, Hindi and others.
 * [ChMusic](https://github.com/haoranweiutd/chmusic) - **ChMusic** is a traditional Chinese music dataset for training model and performance evaluation of musical instrument recognition. This dataset cover 11 musical instruments, consisting of Erhu, Pipa, Sanxian, Dizi, Suona, Zhuiqin, Zhongruan, Liuqin, Guzheng, Yangqin and Sheng.
 * [ComMU](https://pozalabs.github.io/ComMU/) - ComMU has 11,144 MIDI samples that consist of short note sequences created by professional composers with their corresponding 12 metadata. This dataset is designed for a new task, combinatorial music generation which generate diverse and high-quality music only with metadata through auto-regressive language model.
 * [DadaGP](https://github.com/dada-bots/dadaGP) - DadaGP is a new symbolic music dataset comprising 26,181 song scores in the GuitarPro format covering 739 musical genres, along with an accompanying tokenized format well-suited for generative sequence models such as the Transformer. The tokenized format is inspired by event-based MIDI encodings, often used in symbolic music generation models. The dataset is released with an encoder/decoder which converts GuitarPro files to tokens and back.
