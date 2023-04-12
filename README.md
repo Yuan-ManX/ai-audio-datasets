@@ -91,5 +91,6 @@ This is a datasets of speech, music and sound effects that can provide training 
 * [TUT Sound Events 2017](https://zenodo.org/record/400516) - The TUT Sound Events 2017 dataset contains 24 audio recordings in a street environment and contains 6 different classes. These classes are: brakes squeaking, car, children, large vehicle, people speaking, and people walking.
 * [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) - Urban Sound 8K is an audio dataset that contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music. The classes are drawn from the urban sound taxonomy. All excerpts are taken from field recordings uploaded to www.freesound.org.
 * [VGG-Sound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/) - A large scale audio-visual dataset. VGG-Sound is an audio-visual correspondent dataset consisting of short clips of audio sounds, extracted from videos uploaded to YouTube.
+* [Visually Indicated Sounds](https://andrewowens.com/vis/) - Materials make distinctive sounds when they are hit or scratched — dirt makes a thud; ceramic makes a clink. These sounds reveal aspects of an object's material properties, as well as the force and motion of the physical interaction.
 
 ## And more
