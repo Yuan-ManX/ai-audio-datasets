@@ -1,6 +1,6 @@
 # AI-Audio-Dataset-List (AI-ADL) 🎵
 
-This is a list of datasets consisting of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development and audio applications. This audio dataset is mainly used for speech recognition, speech synthesis, singing voice synthesis, music information retrieval, music generation, audio processing, sound synthesis, etc.
+This is a list of datasets consisting of speech, music and sound effects that can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development and audio applications. This audio dataset is mainly used for speech recognition, speech synthesis, singing voice synthesis, music information retrieval, music generation, audio processing, sound synthesis, etc.
 
 * [Speech](#s)
 * [Music](#m)
