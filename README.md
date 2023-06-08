@@ -121,6 +121,7 @@ This is a list of datasets consisting of speech, music, and sound effects, which
 
 ## <span id="se">Sound Effect</span>
 
+* [Animal Sound Dataset](https://github.com/YashNita/Animal-Sound-Dataset) - This data consisting of 875 animal sounds contains 10 types of animal sounds. This animal sounds dataset consists 200 cat, 200 dog, 200 bird, 75 cow, 45 lion, 40 sheep, 35 frog, 30 chicken, 25 donkey, 25 monkey sounds.
 * [AudioSet](https://research.google.com/audioset/index.html) - Audioset is an audio event dataset, which consists of over 2M human-annotated 10-second video clips. These clips are collected from YouTube, therefore many of which are in poor-quality and contain multiple sound-sources. A hierarchical ontology of 632 event classes is employed to annotate these data, which means that the same sound could be annotated as different labels. For example, the sound of barking is annotated as Animal, Pets, and Dog. All the videos are split into Evaluation/Balanced-Train/Unbalanced-Train set.
 * [AudioCaps](https://audiocaps.github.io/) - **AudioCaps** is a dataset of sounds with event descriptions that was introduced for the task of audio captioning, with sounds sourced from the AudioSet dataset. Annotators were provided the audio tracks together with category hints (and with additional video hints if needed).
 * [BBC sound effects](https://sound-effects.bbcrewind.co.uk/) - There are 33,066 sound effects in the BBC sound effects dataset, with text descriptions. Genre: Mainly ambient sound. Every audio has a natural textual description.
