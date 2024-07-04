@@ -1,6 +1,6 @@
 # AI Audio Datasets (AI-ADS) 🎵
 
-AI Audio Datasets (AI-ADS) 🎵, including speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. 
+AI Audio Datasets (AI-ADS) 🎵, including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. 
 
 ## Table of Contents
 
